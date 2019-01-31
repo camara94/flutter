@@ -17,3 +17,8 @@ https://aloisdeniel.github.io/figma-to-flutter/;
 
 comment intégrer flutter à un projet java java android existant 
 https://github.com/flutter/flutter/wiki/add-Flutter-to-existing-apps;
+un projet flutter
+https://github.com/benoitletondor/Beer-Me-Up
+
+l'architeure de M. Briane Gan
+https://github.com/brianegan/flutter_architecture_samples;
